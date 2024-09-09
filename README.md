@@ -1,1 +1,1 @@
-# Blog do curso de django
+#blog do curso
